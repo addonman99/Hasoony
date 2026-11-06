@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<PropertyGroup>
+<TargetFramework>net10.0-windows</TargetFramework>
+<OutputType>WinExe</OutputType>
+<UseWPF>true</UseWPF>
+<Nullable>enable</Nullable>
+<ImplicitUsings>enable</ImplicitUsings>
+<AssemblyName>Hasoony</AssemblyName>
+<RootNamespace>Hasoony</RootNamespace>
+<PublishSingleFile>true</PublishSingleFile>
+<IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+</PropertyGroup>
+<ItemGroup><Resource Include="Assets/*.png" /></ItemGroup>
+</Project>

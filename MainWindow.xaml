@@ -1,0 +1,12 @@
+<Window x:Class="Hasoony.MainWindow"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+Title="Hasoony"
+Width="1050"
+Height="680"
+MinWidth="500"
+MinHeight="350"
+WindowStartupLocation="CenterScreen"
+Background="#777777">
+<Grid/>
+</Window>
